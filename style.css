@@ -1,0 +1,42 @@
+*{
+    margin:0
+}
+
+header{
+    padding: 10px 5%;
+    background-image: url(images/us.open.png);
+    height:95px
+}
+header>*{
+    display: inline-block;
+}
+.pustota{
+    width: 90vw;
+    background: rgb(12, 219, 185);
+    height: 50px;
+}
+article{
+    width: 500px;
+}
+image{
+    height: 400px;
+
+}
+
+p{
+    font-size: 30px;
+}
+main{
+    margin-right: 0;
+}
+nav{
+    color: white;
+}  
+.block{
+    width: 90%;
+    margin: auto;
+    justify-content: center;
+} 
+iframe{
+    justify-content: center;
+}
